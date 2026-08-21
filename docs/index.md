@@ -2,10 +2,7 @@
 
 [add-bioschemas file='_data/bioschemas.json']
 
-!!! warning
-    MkDocs 2.0, the underlying framework of Material for MkDocs, will introduce backward-incompatible changes. Therefore, this template will stop working sooner or later. We recommend you working with the [zensical template](https://github.com/elixir-europe-training/ELIXIR-TrP-LessonTemplate-zensical) or the [ELIXIR Toolkit Theme](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme). 
-
-This repository contains instructions on how to use the [template](https://github.com/elixir-europe-training/ELIXIR-lesson-template) for creating a lesson. Ready to launch?
+This repository contains instructions on how to use the [template](https://github.com/elixir-europe-training/ELIXIR-TrP-LessonTemplate-Zensical) for creating a lesson. Ready to launch?
 
 [:rocket: Get started!](chapters/chapter_01.md){: .md-button }
 
