@@ -4,7 +4,7 @@
 
 The most important files in the repository are markdown (`.md`) files, containing the website content, and configuration files that specify the layout and theme of the website. The most important configuration file is `mkdocs.yml` which specifies the layout and theme of the website. Below we explain the most important files and how to customize them.
 
-The template is based on [mkdocs material](https://squidfunk.github.io/mkdocs-material/), so most features are inherited from this theme, and ample documentation can be found on their [website](https://zensical.org/docs/setup/basics/).
+The template is based on [Zensical](https://zensical.org/docs/setup/basics/)), so most features are inherited from this theme, and ample documentation can be found on their [website](https://zensical.org/docs/setup/basics/).
 
 ### index.md
 
