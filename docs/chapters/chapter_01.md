@@ -1,3 +1,4 @@
+# Chapter 1: Setting up a new repository
 
 ## Creating a new repository
 
