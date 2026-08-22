@@ -15,7 +15,7 @@ To issue a DOI for your lesson, you can make use of the [Zenodo-GitHub integrati
 3. Once connected, you can selet the repository you want to issue a DOI for.
 
 <figure>
-  <img src="../../assets/images/zenodo_github_dashboard.webp" width="900"/>
+  <img src="../assets/images/zenodo_github_dashboard.webp" width="900"/>
 </figure>
 
 4. Find your repository in the list, toggle the switch to `ON`
@@ -103,8 +103,7 @@ Enter a version name (e.g., `initial-release` - for the first version, `2024-09-
 ###
 
 !!! tip "Try it out first"
-    It might be useful to try out the integration using the [Zenodo Sandbox](https://sandbox.zenodo.org/) before you connect your lesson repository with Zenodo. This way you can test the process before issuing a real DOI. A step-by-step guide for using the Zenodo Sandbox is available in the [Training material made FAIR by desig
-    n course](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-Material-By-Design/chapters/chapter_08/#84-tutorial-for-implementing-your-strategy).
+    It might be useful to try out the integration using the [Zenodo Sandbox](https://sandbox.zenodo.org/) before you connect your lesson repository with Zenodo. This way you can test the process before issuing a real DOI. A step-by-step guide for using the Zenodo Sandbox is available in the [Training material made FAIR by design course](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-Material-By-Design/chapters/chapter_08/#84-tutorial-for-implementing-your-strategy).
 
 
 ## Integrating ORCID iDs
