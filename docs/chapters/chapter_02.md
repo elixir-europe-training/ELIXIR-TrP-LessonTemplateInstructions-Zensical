@@ -1,9 +1,10 @@
+# Chapter 2: Customize the repository
 
 ## File structure overview
 
 The most important files in the repository are markdown (`.md`) files, containing the website content, and configuration files that specify the layout and theme of the website. The most important configuration file is `mkdocs.yml` which specifies the layout and theme of the website. Below we explain the most important files and how to customize them.
 
-The template is based on [mkdocs material](https://squidfunk.github.io/mkdocs-material/), so most features are inherited from this theme, and ample documentation can be found on their [website](https://squidfunk.github.io/mkdocs-material/).
+The template is based on [Zensical](https://zensical.org/docs/setup/basics/)), so most features are inherited from this theme, and ample documentation can be found on their [website](https://zensical.org/docs/setup/basics/).
 
 ### index.md
 
@@ -11,7 +12,7 @@ This file renders the home page of the website and is found in the `/docs`folder
 
 ### mkdocs.yml
 
-This file is where most of the layout options are made and where the [MkDocs](https://www.mkdocs.org/) theme [Material](https://squidfunk.github.io/mkdocs-material/) is specified. The navigation menu is customised here as well as the header and footer etc. 
+This file is where most of the layout options are made and where the theme is specified. The navigation menu is customised here as well as the header and footer etc. 
 
 ### README.md
 
@@ -65,7 +66,7 @@ copyright: Creation of this material was funded by project# and is made availiab
 
 ### Removing the banner
 
-When the training material is no longer under active devlopment, remove the banner at the top by removing the following section of the `main.html`file located in the `overrides` folder:
+When the training material is no longer under active development, remove the banner at the top by removing the following section of the `main.html`file located in the `overrides` folder:
 
 ```html
 {% block announce %}
@@ -114,7 +115,7 @@ After that, add a placeholder in the markdown file you'd like to add the metadat
 !!! important "Markdown before placeholder"
     In combination with mkdocs-material the placeholder should be placed after markdown text, so never at the very top of the page. See this [GitHub issue](https://github.com/GeertvanGeest/addbioschemas/issues/5). 
 
-<!-- This wi ll result in a formatted json-LD script tag in the html body.  -->
+<!-- This will result in a formatted json-LD script tag in the html body.  -->
 
 ### Add course content
 
