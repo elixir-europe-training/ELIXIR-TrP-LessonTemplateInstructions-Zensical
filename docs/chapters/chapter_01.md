@@ -15,7 +15,7 @@ In the pop-up window:
    5. Click **`Create repository from template`**
 
 <figure>
-    <img src="../../assets/images/create_from_template.png" width="800"/>
+    <img src="../assets/images/create_from_template.png" width="800"/>
 </figure>
 
 ### Add collaborators
@@ -37,7 +37,7 @@ Go to settings and select `Collaborators and teams` under `Access` in the left s
 ### Go to settings and select `pages` in the left side menu
        
 <figure>
-<img src="../../assets/images/settings-pages-02.png" width="800"/>
+<img src="../assets/images/settings-pages-02.png" width="800"/>
 </figure>
 
 1. click on `None`under Branch and select the `gh-pages` branch
@@ -48,7 +48,7 @@ Go to settings and select `Collaborators and teams` under `Access` in the left s
 ### Go to settings and select Actions -> General in the left side menu
 
 <figure>
-<img src="../../assets/images/settings_actions.png" width="600"/>
+<img src="../assets/images/settings_actions.png" width="600"/>
 </figure>
 
 1. at the top under `Actions permissions` check the option "Allow all actions and reusable workflows"     
@@ -58,12 +58,12 @@ Go to settings and select `Collaborators and teams` under `Access` in the left s
 
 1. Go to the `<> Code` tab and click the `About`settings wheel on the right side
     <figure>
-  <img src="../..//assets/images/repo_about_settings01.png" width="800"/>
+  <img src="../assets/images/repo_about_settings01.png" width="800"/>
     </figure>
 2. In the pop-up `Edit repository details`: 
     1. tick the `Use your GitHub Pages website` to automatically fill the Website URL
     <figure>
-  <img src="../..//assets/images/repo_about_settings02.png" width="600"/>
+  <img src="../assets/images/repo_about_settings02.png" width="600"/>
     </figure>
     3. press `Save changes`
 
