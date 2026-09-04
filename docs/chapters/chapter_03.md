@@ -38,7 +38,7 @@ After commiting it will take ~30-60 seconds before the website is updated with y
 
 ## Adding specific elements
 
-In addition to adding text and other content in markdown, this template is based on the theme [material](https://squidfunk.github.io/mkdocs-material/) which has many fancy extensions, like [admonitions](https://squidfunk.github.io/mkdocs-material/reference/admonitions/) that can be used as well. 
+In addition to adding text and other content in markdown, this template is based on a [theme](https://zensical.org/docs/authoring/markdown/) which has many fancy extensions, like [admonitions](https://zensical.org/docs/authoring/admonitions/) that can be used as well. 
 
 ### Author cards
 
@@ -269,16 +269,16 @@ Tables are created with pipes `|` and hyphens `-`. Hyphens are used to create ea
 
 ### Videos
 
-You can also embed videos from a local source (with a relative path) or from an url (like youtube). To use a youtube URL, 
-just attach the ID of the video to a youtube embedded video link: `https://youtube.com/embed/`. For example, the Elixir training video `https://youtu.be/oAD8FdGf8tI` has the ID `oAD8FdGf8tI`, so the final link would be:
+You can also embed videos, e.g. from YouTube, using a plain HTML `<iframe>` directly in the markdown. To embed a YouTube video, attach its ID to `https://www.youtube.com/embed/`. For example, the Elixir training video `https://youtu.be/oAD8FdGf8tI` has the ID `oAD8FdGf8tI`, so the final embed would be:
 
-```
-![type:video](https://youtube.com/embed/oAD8FdGf8tI)
+```html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oAD8FdGf8tI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 
-![type:video](https://youtube.com/embed/oAD8FdGf8tI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oAD8FdGf8tI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Adding additional content
 
- For more advanced functionality, visit the [mkdocs material webpage](https://squidfunk.github.io/mkdocs-material/). For example for information on how to display [admonitions](https://squidfunk.github.io/mkdocs-material/reference/admonitions/). 
+ For more advanced functionality, visit the [Zensical  webpage](https://zensical.org/docs/authoring/markdown/). For example for information on how to display [admonitions](https://zensical.org/docs/authoring/markdown/admonitions/). 
 
