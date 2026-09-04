@@ -4,7 +4,7 @@
 
 The most important files in the repository are markdown (`.md`) files, containing the website content, and configuration files that specify the layout and theme of the website. The most important configuration file is `mkdocs.yml` which specifies the layout and theme of the website. Below we explain the most important files and how to customize them.
 
-The template is based on [Zensical](https://zensical.org/docs/setup/basics/)), so most features are inherited from this theme, and ample documentation can be found on their [website](https://zensical.org/docs/setup/basics/).
+The template is based on [Zensical](https://zensical.org/docs/setup/basics/), so most features are inherited from this theme, and ample documentation can be found on their [website](https://zensical.org/docs/setup/basics/).
 
 ### index.md
 
@@ -52,7 +52,7 @@ To add a new item in the menu:
     1. navigating to the `docs` folder and then clicking `Add file` on the top right
     2. name the new file
     3. commit the new file to the `main` branch at the bottom of the page
-2. Add a row `"title": chapter/filename.md` to the `nav`section of the `mkdocs.yml` file
+2. Add a row `"title": chapters/filename.md` to the `nav`section of the `mkdocs.yml` file
 
 
 ### Modify the footer

@@ -4,7 +4,7 @@
 
 ### Create a new repository from the template
 
-In your web browser, browse to the [ELIXIR-TrP-LessonTemplate-MkDocs](https://github.com/elixir-europe-training/ELIXIR-TrP-LessonTemplate-MkDocs) repository on GitHub. Click the green **Use this template** button on the top right.
+In your web browser, browse to the [ELIXIR-TrP-LessonTemplate-zensical](https://github.com/elixir-europe-training/ELIXIR-TrP-LessonTemplate-zensical) repository on GitHub. Click the green **Use this template** button on the top right.
 
 In the pop-up window:
 
