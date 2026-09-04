@@ -8,7 +8,7 @@ This repository contains instructions on how to use the [template](https://githu
 
 Important template features:
 
-- Everything in [mkdocs material](https://squidfunk.github.io/mkdocs-material/)
+- Everything in Zensical and migrated from mkdocs material [Read more here](https://zensical.org/docs/compatibility/mkdocs/migration//)
 - Continuous template synchronization to stay up-to-date with the look-and-feel and features of the template
 - Automated deployment of the lesson to GitHub pages using GitHub Actions
 - Easy integration of Bioschemas metadata
